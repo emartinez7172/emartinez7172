@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @emartinez7172
+
 As a dedicated professional currently pursuing a Cybersecurity Certificate, I am deeply passionate about the field of cybersecurity and its critical role in protecting information and systems. My training encompasses key technical competencies such as network security, threat management, and ethical hacking. These areas are equipping me with the skills necessary to tackle today’s evolving cybersecurity challenges and to safeguard digital environments effectively.
 
 Throughout my career, I have developed a strong foundation of transferable skills that are highly relevant to cybersecurity. My experience as a Medical Bookmarker involved meticulous attention to detail, ensuring accuracy and compliance in medical records. This precision is essential for monitoring and analyzing security data. Additionally, my role as a Lab Tech honed my analytical skills, allowing me to detect anomalies and assess risks—crucial abilities for identifying potential threats in cybersecurity.
